@@ -1,0 +1,2 @@
+# Exercise
+For Oracle interview
