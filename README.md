@@ -22,6 +22,12 @@ chmod +x norep
 
 chmod +x testrep
 
+chmod +x downloadMe
+
+First download dependencies
+
+- ./downloadMe
+
 To execute the commands please use:
 - ./norep stringToCheck
 - ./testrep
