@@ -1,4 +1,4 @@
-## Exercise for Oracle interview
+## Exercise
 
 This exercise contains two command line programs to process a single String for repetition patterns and returns the given String without repetitions.
 The programs complie with the stated requirements.
